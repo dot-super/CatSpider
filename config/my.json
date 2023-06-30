@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
-"spider":"http://127.0.0.1:9978/Download/TVBox/spider.jar",
+"spider":"http://127.0.0.1:9978/file/Download/TVBox/spider.jar",
 "sites": [
 {key:'js_douban',name:' 豆瓣推荐 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/drpy.js'},
 {key:'js_ddrk',name:' 低端影视 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/ddys.js'},
@@ -19,7 +19,7 @@
 
 {key:'js_huya',name:' 虎牙直播 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/虎牙直播.js'},
 {key:'js_douyu',name:' 斗鱼直播 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/斗鱼直播.js'},
-{key:'js_JustLive',name:' JustLive js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/Download/TVBox/js/JustLive.js'},
+{key:'js_JustLive',name:' JustLive js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/JustLive.js'},
 {key:'js_ShortVid',name:' 短视频聚合 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/短视频.js'},
 
 {key:'js_age',name:' AGE动漫 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/AGE动漫.js'},
@@ -30,7 +30,7 @@
 {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {key:'js_meiju56',name:' 酷狗MV js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.iqiq.io/hjdhnx/dr_py/master/js/酷狗MV.js'},
 
-{key:'js_Alist',name:' Alist合集 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/alist.min.js',searchable:1,quickSearch:0,filterable:0,ext:'http://127.0.0.1:9978/Download/TVBox/js/alist.json'},
+{key:'js_Alist',name:' Alist合集 js',type:3,api:'https://raw.iqiq.io/hjdhnx/dr_py/master/libs/alist.min.js',searchable:1,quickSearch:0,filterable:0,ext:'http://127.0.0.1:9978/file/Download/TVBox/js/alist.json'},
 {"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
 ],
 
