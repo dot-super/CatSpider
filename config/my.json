@@ -1,0 +1,112 @@
+{
+"wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
+"spider":"clan://Download/TVBox/spider.jar",
+"sites": [
+{key:'js_douban',name:' 豆瓣推荐 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/drpy.js'},
+{key:'js_ddrk',name:' 低端影视 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/ddys.js'},
+{key:'js_Bdys01',name:' 哔嘀影视 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/哔嘀影视.js'},
+{key:'js_czspp',name:' 厂长资源 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/厂长资源.js'},
+
+{key:'js_ky77',name:' 酷云77 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/酷云77.js'},
+{key:'js_UM',name:' UM影院 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/UM电影.js'},
+{key:'js_996w',name:' 咕噜[V2] js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/咕噜[V2].js'},
+{key:'js_brovod',name:' XD影视 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/兄弟影视.js'},
+{key:'js_llya',name:' 利丽娅电影 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/利丽娅电影.js'},
+{key:'js_ppy',name:' 皮皮鸭 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/皮皮鸭.js'},
+
+{key:'js_bttwoo',name:' 两个BT js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/两个BT.js'},
+{key:'js_libvio',name:' LIBVIO js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/LIBVIO.js'},
+
+{key:'js_huya',name:' 虎牙直播 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/虎牙直播.js'},
+{key:'js_douyu',name:' 斗鱼直播 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/斗鱼直播.js'},
+{key:'js_JustLive',name:' JustLive js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'clan://Download/TVBox/js/JustLive.js'},
+{key:'js_ShortVid',name:' 短视频聚合 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/短视频.js'},
+
+{key:'js_age',name:' AGE动漫 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/AGE动漫.js'},
+{key:'js_AnFuns',name:' AnFuns动漫 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/AnFuns.js'},
+{key:'js_96ba',name:' 路漫漫 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/路漫漫.js'},
+{key:'js_ntdm8',name:' NT动漫 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/NT动漫.js'},
+
+{"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{key:'js_meiju56',name:' 酷狗MV js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/drpy2.min.js',ext:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/js/酷狗MV.js'},
+
+{key:'js_Alist',name:' Alist合集 js',type:3,api:'https://cdn.staticaly.com/gh/kingfren/dr_py/master/libs/alist.min.js',searchable:1,quickSearch:0,filterable:0,ext:'clan://Download/TVBox/js/alist.json'},
+{"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
+],
+
+"parses":[
+//{"name":"解析聚合","type":3,"url":"Demo"},
+//{"name":"Json并发","type":2,"url":"Parallel"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"Web聚合","type":3,"url":"Web"},
+
+//{"name":"高清","type":1,"url":""},
+{"name":"夜幕","type": 0,"url":"https://www.yemu.xyz/?url="},
+{"name":"bozrc","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"777解析","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+//{"name":"低清","type":1,"url":""},
+{"name":"91解析","type":0,"url":"http://91fanli.top/m3u8/?url="},
+{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
+{"name":"咸鱼","type":0,"url":"https://jx.ppflv.com/?url="},
+{"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="},
+
+{"name":"解析列表结束","type":1,"url":""}
+],
+
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","bilibili","优酷","芒果","腾讯","爱奇艺","奇艺","土豆"],
+
+"lives": [
+{
+"group": "redirect",
+"channels": [
+{
+"name": "redirect",
+"urls": [
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L3F0RkdYNlox"
+]}]}],
+
+"ijk":[
+{"group":"软解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"0"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+{"category":4,"name":"mediacodec-hevc","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
+{"group":"硬解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"1"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+{"category":4,"name":"mediacodec-hevc","value":"1"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn",
+"mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com",
+"www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com",
+"img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn",
+"sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com",
+"wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com",
+"cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com",
+"z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn",
+"z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
+"z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn",
+"k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
