@@ -1,18 +1,15 @@
 {
 "wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
-"spider":"http://127.0.0.1:9978/file/Download/TVBox/spider.jar",
 "sites": [
 {key:'js_douban',name:' 豆瓣推荐 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/drpy.js'},
-{key:'js_ddrk',name:' 低端影视 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/ddys.js'},
+{key:'js_ddrk',name:' 低端影视 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/ddys.js'},
 {key:'js_Bdys01',name:' 哔嘀影视 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/哔嘀影视.js'},
 {key:'js_czspp',name:' 厂长资源 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/厂长资源.js'},
 
-{key:'js_ky77',name:' 酷云77 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/酷云77.js'},
-{key:'js_UM',name:' UM影院 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/UM电影.js'},
-{key:'js_996w',name:' 咕噜[V2] js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/咕噜[V2].js'},
-{key:'js_brovod',name:' XD影视 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/兄弟影视.js'},
-{key:'js_llya',name:' 利丽娅电影 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/利丽娅电影.js'},
-{key:'js_ppy',name:' 皮皮鸭 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/皮皮鸭.js'},
+{key:'js_pupvod',name:' 小狗影院 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/小狗影院.js'},
+{key:'js_yscms',name:' 影探[V2] js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/影探[V2].js'},
+{key:'js_waipian',name:' 歪片星球 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/歪片星球.js'},
+{key:'js_aidi',name:' 爱迪[V2] js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/爱迪[V2].js'},
 
 {key:'js_bttwoo',name:' 两个BT js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/两个BT.js'},
 {key:'js_libvio',name:' LIBVIO js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/LIBVIO.js'},
@@ -20,15 +17,12 @@
 {key:'js_huya',name:' 虎牙直播 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/虎牙直播.js'},
 {key:'js_douyu',name:' 斗鱼直播 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/斗鱼直播.js'},
 {key:'js_JustLive',name:' JustLive js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/JustLive.js'},
-{key:'js_ShortVid',name:' 短视频聚合 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/短视频.js'},
+{key:'js_zz123',name:' 种子音乐 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/种子音乐.js'},
 
 {key:'js_age',name:' AGE动漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/AGE动漫.js'},
 {key:'js_AnFuns',name:' AnFuns动漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/AnFuns.js'},
 {key:'js_96ba',name:' 路漫漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/路漫漫.js'},
 {key:'js_ntdm8',name:' NT动漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/NT动漫.js'},
-
-{"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{key:'js_meiju56',name:' 酷狗MV js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/酷狗MV.js'},
 
 {key:'js_Alist',name:' Alist合集 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/alist.min.js',searchable:1,quickSearch:0,filterable:0,ext:'http://127.0.0.1:9978/file/Download/TVBox/js/alist.json'},
 {"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
