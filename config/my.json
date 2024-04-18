@@ -57,7 +57,9 @@
 {
 "name": "live",
 "type": 0,
-"url": "https://cdn.jsdelivr.net/gh/smallmagpie/CatSpider@main/config/live.txt"
+"url": "./live.txt",
+"playerType":1,
+"epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}"
 }
 ],
 
