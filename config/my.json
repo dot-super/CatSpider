@@ -1,34 +1,34 @@
 {
 "wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
 "sites": [
-{key:'js_douban',name:' 豆瓣推荐 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/drpy.js'},
-{key:'js_rinhome',name:' 荐片 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/荐片.js'},
+{key:'js_douban',name:' 豆瓣推荐 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/drpy.js'},
+{key:'js_rinhome',name:' 荐片 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/荐片.js'},
 
-{key:'js_ddrk',name:' 低端影视 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/ddys.js'},
-{key:'js_Bdys01',name:' 哔嘀影视 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/哔嘀影视.js'},
+{key:'js_ddrk',name:' 低端影视 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/ddys.js'},
+{key:'js_Bdys01',name:' 哔嘀影视 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/哔嘀影视.js'},
 
-{key:'js_aidi',name:' 爱迪[V2] js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/爱迪[V2].js'},
-{key:'js_smile',name:' 曲奇影视[V2] js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/曲奇影视[V2].js'},
+{key:'js_aidi',name:' 爱迪[V2] js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/爱迪[V2].js'},
+{key:'js_smile',name:' 曲奇影视[V2] js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/曲奇影视[V2].js'},
 
-{key:'js_pupvod',name:' 小狗影院 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/小狗影院.js'},
-{key:'js_waipian',name:' 歪片星球 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/歪片星球.js'},
+{key:'js_pupvod',name:' 小狗影院 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/小狗影院.js'},
+{key:'js_waipian',name:' 歪片星球 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/歪片星球.js'},
 
-{key:'js_czspp',name:' 厂长资源 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/厂长资源.js'},
-{key:'js_zxzj',name:' 在线之家 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/在线之家.js'},
-{key:'js_bttwoo',name:' 两个BT js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/两个BT.js'},
-{key:'js_libvio',name:' LIBVIO js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/LIBVIO.js'},
+{key:'js_czspp',name:' 厂长资源 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/厂长资源.js'},
+{key:'js_zxzj',name:' 在线之家 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/在线之家.js'},
+{key:'js_bttwoo',name:' 两个BT js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/两个BT.js'},
+{key:'js_libvio',name:' LIBVIO js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/LIBVIO.js'},
 
-{key:'js_huya',name:' 虎牙直播 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/虎牙直播.js'},
-{key:'js_douyu',name:' 斗鱼直播 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/斗鱼直播.js'},
-{key:'js_JustLive',name:' JustLive js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/JustLive.js'},
-{key:'js_zz123',name:' 种子音乐 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/种子音乐.js'},
+{key:'js_huya',name:' 虎牙直播 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/虎牙直播.js'},
+{key:'js_douyu',name:' 斗鱼直播 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/斗鱼直播.js'},
+{key:'js_JustLive',name:' JustLive js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/JustLive.js'},
+{key:'js_zz123',name:' 种子音乐 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'http://127.0.0.1:9978/file/Download/TVBox/js/种子音乐.js'},
 
-{key:'js_age',name:' AGE动漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/AGE动漫.js'},
-{key:'js_AnFuns',name:' AnFuns动漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/AnFuns.js'},
-{key:'js_96ba',name:' 路漫漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/路漫漫.js'},
-{key:'js_ntdm8',name:' NT动漫 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/drpy2.min.js',ext:'https://raw.gitmirror.com/hjdhnx/dr_py/master/js/NT动漫.js'},
+{key:'js_age',name:' AGE动漫 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/AGE动漫.js'},
+{key:'js_AnFuns',name:' AnFuns动漫 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/AnFuns.js'},
+{key:'js_96ba',name:' 路漫漫 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/路漫漫.js'},
+{key:'js_ntdm8',name:' NT动漫 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/drpy2.min.js',ext:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/js/NT动漫.js'},
 
-{key:'js_Alist',name:' Alist合集 js',type:3,api:'https://raw.gitmirror.com/hjdhnx/dr_py/master/libs/alist.min.js',searchable:1,quickSearch:0,filterable:0,ext:'http://127.0.0.1:9978/file/Download/TVBox/js/alist.json'},
+{key:'js_Alist',name:' Alist合集 js',type:3,api:'https://testingcf.jsdelivr.net/gh/hjdhnx/dr_py@master/libs/alist.min.js',searchable:1,quickSearch:0,filterable:0,ext:'http://127.0.0.1:9978/file/Download/TVBox/js/alist.json'},
 {"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
 ],
 
